@@ -1,13 +1,41 @@
 {
   "name": "GENX Token",
   "symbol": "GENX",
-  "uri": "https://raw.githubusercontent.com/GENX-BC3X/GENX-MD/refs/heads/main/E6D0D17F-F8AA-440E-A3C7-C18F4EA9D200.webp",
+  "description": "GENX is the token that’s all about having fun in the crypto space. Born from the meme culture, GENX brings a sense of humor and excitement to the world of digital assets. Whether you’re holding it for a laugh, joining the meme movement, or just looking to ride the next big wave in crypto, GENX is here to add some spice to your wallet. No promises of riches, just pure fun and a little bit of chaos.",
+  "image": "https://raw.githubusercontent.com/GENX-BC3X/GENX-MetaData/main/E6D0D17F-F8AA-440E-A3C7-C18F4EA9D200.webp",
+  "external_url": "https://github.com/GENX-BC3X/GENX-MetaData",
   "seller_fee_basis_points": 500,
-  "creators": [
+  "attributes": [
     {
-      "address": "D8sKgFgKKnZ5iFL9p871Qvctcwr5hXsKTsVmhzzwhkeY",
-      "share": 100
+      "trait_type": "Theme",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Fun"
+    },
+    {
+      "trait_type": "Royalty",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
     }
   ],
-  "description": "GENX is the token that’s all about having fun in the crypto space. Born from the meme culture, GENX brings a sense of humor and excitement to the world of digital assets. Whether you’re holding it for a laugh, joining the meme movement, or just looking to ride the next big wave in crypto, GENX is here to add some spice to your wallet. No promises of riches, just pure fun and a little bit of chaos."
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GENX-BC3X/GENX-MetaData/main/E6D0D17F-F8AA-440E-A3C7-C18F4EA9D200.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "D8sKgFgKKnZ5iFL9p871Qvctcwr5hXsKTsVmhzzwhkeY",
+        "share": 100
+      }
+    ]
+  }
 }
